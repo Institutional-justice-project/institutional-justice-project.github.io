@@ -7,6 +7,7 @@ title: Home
 
 ---
 # Institutional Justice Project
+Researching Institutional Justice in Academia and Beyond
 
 ## Institutional Justice and Human Rights
 
