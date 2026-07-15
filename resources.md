@@ -15,6 +15,9 @@ Coming soon.
 
 Coming soon.
 
+
 ## Related Initiatives
 
-- [Cross-institutional Network against Campus Harassment and Discrimination](https://sites.google.com/view/academic-environment/home)
+- [Study Group on Academic Environment](https://sites.google.com/view/academic-environment/home)
+- [Cross-institutional Network against Campus Harassment and Discrimination](https://sites.google.com/view/equalcampus/english?authuser=0)
+
