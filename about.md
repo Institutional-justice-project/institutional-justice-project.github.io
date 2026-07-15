@@ -1,3 +1,11 @@
+---
+layout: default
+title: About
+---
+
+[Home](/) | [About](/about) | [Research](/research) | [Resources](/resources)
+
+---
 # About
 
 ## Institutional Justice Project
