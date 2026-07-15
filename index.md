@@ -18,11 +18,14 @@ This project brings together research on legal philosophy, institutional respons
 
 ---
 
-## Current Research
+## Research Areas
 
-- Institutional Responsibility
-- Academic Harassment and Discrimination
-- Human Rights Petition
+• Academic Harassment
+• Academic Discrimination
+• Institutional Injustice
+• Institutional Responsibility
+• Academic Integrity
+• Victim Protection and Accountability
 
 ---
 
