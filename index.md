@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+---
+
+[Home](/) | [About](/about) | [Research](/research) | [Resources](/resources)
+
+---
 # Institutional Justice Project
 
 ## Institutional Justice and Human Rights
@@ -12,11 +20,9 @@ This project brings together research on legal philosophy, institutional respons
 
 ## Current Research
 
-- Human Rights Theory
 - Institutional Responsibility
 - Academic Harassment and Discrimination
-- Rule of Law
-- Legal Positivism
+- Human Rights Petition
 
 ---
 
